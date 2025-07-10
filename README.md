@@ -1,2 +1,2 @@
-# Patterson-Group-Wiki
-Wiki for the use of the Patterson Group.
+# Test repo
+Repo for testing purposes. Notes on included
